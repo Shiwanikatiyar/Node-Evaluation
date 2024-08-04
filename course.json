@@ -1,0 +1,39 @@
+{
+    "courses": [
+        {
+            "id": "course1",
+            "title": "Intro to  Programming",
+            "category": " programming",
+            "difficulty": "intermidiate",
+            "description": "Learn the basics of cs programming."
+        },
+        {
+            "id": "course2",
+            "title": "Intro to  Programming",
+            "category": "design",
+            "difficulty": "advanced",
+            "description": "Learn the basics of  programming."
+        },
+        {
+            "id": "course3",
+            "title": "Intro to  Programming",
+            "category": " programming",
+            "difficulty": "design",
+            "description": "Learn the basics of  programming."
+        },
+        {
+            "id": "course4",
+            "title": "Intro to  Programming",
+            "category": "design",
+            "difficulty": "intermidiate",
+            "description": "Learn the basics of  programming."
+        },
+        {
+            "id": "course5",
+            "title": "Intro to  Programming",
+            "category": " programming",
+            "difficulty": "advanced",
+            "description": "Learn the basics of  programming."
+        }
+    ]
+}
